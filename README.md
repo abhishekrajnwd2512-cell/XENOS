@@ -1,4 +1,4 @@
-# DAQQA (دِقَّة) | Autonomous Astronaut Health Monitoring & Garmin Telemetry
+# XENOS | Autonomous Astronaut Health Monitoring & Garmin Telemetry
 
 > **2026 NASA Space Apps Challenge** — **Software for Healthcare Track**  
 > Space Health Monitoring & Wearable Biometrics for Long-Duration Exploration (Artemis & Mars Missions)
